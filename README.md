@@ -20,7 +20,8 @@
     <br>
 
 
-#Defination of terms
+<h1>Defination of terms</h1> 
+<br>
 **Branch** <br> Branch is a independent line of development. By using branch you can seperate devolopment work without affecting other branches in repository. A repository can have multiple branches.<br>
 **Clone** <br> Cloning is used by targetting an existed repository. By cloning you can full copy of all the data the targeted repository has.<br>
 **Commit** <br> Commit is like the keeping records or leaving notes. So it records the changes you have made to files.<br>
