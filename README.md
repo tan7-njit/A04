@@ -14,12 +14,21 @@
 12. Finally, push change to the remote repository.
 13. Your file is now in github repository and it is public by default.
 14. If you want make any change go to settings and look around the options you have.
+    <br>
+    <br>
+    <br>
+    <br>
 
 
-
+#Defination of terms
 **Branch** <br> Branch is a independent line of development. By using branch you can seperate devolopment work without affecting other branches in repository. A repository can have multiple branches.<br>
 **Clone** <br> Cloning is used by targetting an existed repository. By cloning you can full copy of all the data the targeted repository has.<br>
 **Commit** <br> Commit is like the keeping records or leaving notes. So it records the changes you have made to files.<br>
 **Fetch** <br> Fetching is like downloading a folder from your google drive to local computer. Fetch command does the same. It downloads commits, files from a remote repository into local repository.<br>
 **Git** <br> Git is a open source project for keeping track of source code.<br>
 **Github** <br> For managing git we need a platform which is called github. Github is designed to manage git repositories  in a better way.<br>
+**Merge** <br> Git Merge combine two branches. It also combines multiple commits into one unifies history. <br>
+**Push** <br> The git push command is used to upload local repository content to a remote repository. Its like file transfer protocol. <br>
+**Pull** <br> A pull grabs any changes from the GitHub repository and merges them into your local repository where as pushing sends the recent commit history from your local repository up to GitHub  <br>
+**Remote** <br> It is a common repository for team work where all team members use to exchange their changes.  <br>
+**Repository** <br> It is the container of project's files. It also contains a collection of files of various different versions of a project. <br>
