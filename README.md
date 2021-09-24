@@ -17,9 +17,9 @@
 
 
 
-**Branch** <br> Branch is a independent line of development. By using branch you can seperate devolopment work without affecting other branches in repository. A repository can have multiple branches.
-**Clone** <br> Cloning is used by targetting an existed repository. By cloning you can full copy of all the data the targeted repository has.
-**Commit** <br> Commit is like the keeping records or leaving notes. So it records the changes you have made to files.
-**Fetch** <br> Fetching is like downloading a folder from your google drive to local computer. Fetch command does the same. It downloads commits, files from a remote repository into local repository.
-**Git** <br> Git is a open source project for keeping track of source code.
-**Github** <br> For managing git we need a platform which is called github. Github is designed to manage git repositories  in a better way.
+**Branch** <br> Branch is a independent line of development. By using branch you can seperate devolopment work without affecting other branches in repository. A repository can have multiple branches.<br>
+**Clone** <br> Cloning is used by targetting an existed repository. By cloning you can full copy of all the data the targeted repository has.<br>
+**Commit** <br> Commit is like the keeping records or leaving notes. So it records the changes you have made to files.<br>
+**Fetch** <br> Fetching is like downloading a folder from your google drive to local computer. Fetch command does the same. It downloads commits, files from a remote repository into local repository.<br>
+**Git** <br> Git is a open source project for keeping track of source code.<br>
+**Github** <br> For managing git we need a platform which is called github. Github is designed to manage git repositories  in a better way.<br>
